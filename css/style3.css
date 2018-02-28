@@ -1,0 +1,225 @@
+.bodytext2 {font:normal 12px Arial, Helvetica, sans-serif; color:#292929; text-decoration:none;}
+.bodytext2:hover {color:#292929; text-decoration:underline;}
+
+.textfield {width:240px;  height:31px; border:1px solid #c2c2c2; padding-left: 35px; background:#f9f9f9 url(../images/v.jpg) no-repeat; background-position: 3px 50%; font:14px Arial, Helvetica, sans-serif; color:#666;  }
+.textfields{width:240px;  height:31px; border:1px solid #c2c2c2; padding-left: 35px; background:#f9f9f9 url(../images/c.jpg) no-repeat; background-position: 3px 50%; font:14px Arial, Helvetica, sans-serif; color:#666;  }
+
+.subtbutn {padding:5px 15px; background:#c20000; font-family: 'Abel', sans-serif; font-weight:600; font-size:14px; text-transform:uppercase; color:#FFF; border:1px solid #c20000; cursor:pointer;}
+.subtbutn:hover {background:#880000; border:1px solid #880000;}
+
+.subtbutn2 {padding:5px 15px; background:#555555; font-family: 'Abel', sans-serif; font-weight:600; font-size:14px; text-transform:uppercase; color:#FFF; border:1px solid #555555; cursor:pointer;}
+.subtbutn2:hover {background:#242424; border:1px solid #242424;}
+
+.orbox {width:50px; float:left; margin-left:20px; font:bold 13px Arial, Helvetica, sans-serif; text-align:center; color:#333; margin-top:150px;}
+
+.registerbox {width:427px; min-height:290px; float:right; margin-right:25px; }
+.registerbox h1 
+{
+font-family: 'Abel', sans-serif;
+font-weight:600;
+font-size:22px;
+margin-top:0;
+color:#1c1c1c; 
+text-transform:uppercase;
+ }
+ 
+.registerbox2 {width:427px; height:250px; float:left; background:#00FFFF url(../images/icon2.png) top right no-repeat;}
+.registerbox3 {width:427px; height:250px; float:left; background:#00FFFFF url(../images/icon2.png) top right no-repeat;}
+.rebodytext {font:normal 16px Arial, Helvetica, sans-serif; color:#292929;}
+
+#footer	{
+width:100%; 
+margin:0 auto; padding:5px 0px 5px 0px; float:left; 
+background:#161616; text-align:center; color:#5c5c5c; font:normal 11px Arial, Helvetica, sans-serif;
+}
+
+#footer2	{
+width:100%; 
+margin:0 auto; padding:5px 0px 5px 0px; float:left; 
+background-color:black; text-align:center; color:#5c5c5c; font:normal 11px Arial, Helvetica, sans-serif;
+}
+
+#contents_container2	{
+width:1000px; margin-top:0px; margin-bottom:20px;
+margin:0 auto; min-height:230px;
+}
+
+#contents_innercontainer	{
+width:1000px; background: url(../images/content_bg.png) repeat;
+margin:0 auto; min-height:530px; float:left; margin-bottom:40px;
+}
+
+.contentheader3	{
+width:950px; float:left; margin-left:24px; min-height:400px; 
+}
+
+.contentheader3 h1 
+{
+font-family: 'Abel', sans-serif;
+font-weight:600;
+font-size:22px;
+margin-top:2opx;
+color:#1c1c1c; 
+text-transform:uppercase; margin-top:-29px;
+}
+
+.middle_box1 {
+width:600px; float:left; min-height:30px; margin-left:175px;
+}
+
+.middle_box2 {
+width:600px; border:1px solid #c3c3c3; background:#FFF; float:left; min-height:400px; margin-left:175px; margin-bottom:50px; margin-top:50px; 
+}
+
+.middle_box3 {
+width:750px; border:1px solid #c3c3c3; background:#FFF; float:left; min-height:400px; margin-left:100px; margin-bottom:50px;
+}
+
+.heading {font:bold 14px Arial, Helvetica, sans-serif; color:#3d3d3d; text-align:left;}
+.require {font:normal 11px Arial, Helvetica, sans-serif; color:#3d3d3d; text-align:right;}
+.red {margin-left:17px;}
+.red1 {font:normal 12px Arial, Helvetica, sans-serif; color: #F00;}
+.heading2 {font:bold 14px Arial, Helvetica, sans-serif; color:#ec5f01; text-align:left; border-bottom:1px solid #e3e3e3; padding-bottom:5px;}
+
+
+.textfield2 {width:300px; margin-bottom:5px;  height:31px; border:1px solid #c4c4c4; font:14px Arial, Helvetica, sans-serif; color:#666; padding-left:6px; padding-right:6px;}
+.textfield2:required {
+	background:#fff url(../images/red_asterisk.png) no-repeat 98% center;
+	}
+.textfield2:required:valid,
+
+.textfield2.has-success {
+	background: #fff url(../images/valid.png) no-repeat 98% center;
+	box-shadow: 0 0 5px #5cd053;
+	border-color: #28921f;
+}
+.textfield2:focus:invalid,
+
+.textfield2.has-error {
+	background: #fff url(../images/invalid.png) no-repeat 98% center;
+	box-shadow: 0 0 5px #d45252;
+	border-color: #b03535
+}	
+
+.textarea1 {width:300px; margin-bottom:5px; height:70px; border:1px solid #c4c4c4; font:14px Arial, Helvetica, sans-serif; color:#666; padding-left:6px; padding-right:6px;}
+.textarea1 :required {
+	background:#fff url(../images/red_asterisk.png) no-repeat 98% center;
+	}
+.textarea1 :required:valid,
+
+.textarea1 .has-success {
+	background: #fff url(../images/valid.png) no-repeat 98% center;
+	box-shadow: 0 0 5px #5cd053;
+	border-color: #28921f;
+}
+.textarea1 :focus:invalid,
+
+.textarea1 .has-error {
+	background: #fff url(../images/invalid.png) no-repeat 98% center;
+	box-shadow: 0 0 5px #d45252;
+	border-color: #b03535
+}	
+
+.selectfield {width:314px; margin-bottom:5px; padding:8px; height:35px;  border:1px solid #c4c4c4; background:#f9f9f9; font:11px Arial, Helvetica, sans-serif; color:#666;}
+.selectfield:hover {border:1px solid #eed2b5; background:#fff9e9;}
+
+.linksurl {font:normal 12px Arial, Helvetica, sans-serif; color:#126ace; text-decoration:none;}
+.linksurl:hover {color:#292929; text-decoration:underline;}
+
+.textfield3 {width:200px; margin-bottom:5px;  height:25px; border:1px solid #c4c4c4; background:#f9f9f9; font:14px Arial, Helvetica, sans-serif; color:#666; padding-left:6px; padding-right:6px;}
+.textfield3:hover {border:1px solid #eed2b5; background:#fff9e9;}
+.textfield3:focus {border:1px solid #eed2b5; background:#fff9e9;}
+
+ input[type="checkbox"]{
+	width: 20px; 
+    height: 20px; 
+  }
+ input[type="checkbox"]:required:invalid + label { color: red; }
+ input[type="checkbox"]:required:valid + label { color: green; }
+
+.thankxbox {width:600px; min-height:100px; float:left; margin-left:200px; margin-top:50px;}
+.thankxbox h1 
+{
+font-family: 'Abel', sans-serif; text-align:center;
+font-weight:600;
+font-size:23px;
+margin-top:0;
+color:#0357b2; 
+text-transform:uppercase;
+}
+
+.thankxbox h2 
+{
+font-family: 'Abel', sans-serif; text-align:center;
+font-weight:600;
+font-size:23px;
+margin-top:0;
+color:#1c1c1c; 
+}
+.button{
+	float:right;
+    background:#006699;
+    border: 2px solid white;
+	border-radius:8px;
+    padding: 7px 30px;
+	color:white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+	margin-top:8px;
+	margin-bottom:5px;
+	margin-left:60px;
+}
+.button:hover {
+    background-color: #003399;
+	color:#FF0000;
+	border-color:#FF0000;
+}
+.header{
+	float:right;
+	height:50px;
+	width:100%;
+	
+	 border-style: solid;
+  
+	margin:0px;
+}
+
+/**** LOGOUT *****/
+.logou_box {width:427px; min-height:290px; margin:60px auto;}
+.logou_box h1 
+{
+font-family: 'Abel', sans-serif;
+font-weight:600;
+font-size:22px;
+margin-top:0;
+color:#1c1c1c; 
+text-transform:uppercase;
+text-align:center;
+}
+.logoutbox {width:427px; height:190px; float:left; background:#00FFFF;
+}
+
+/**** FORGOT *****/
+
+.forg_box {width:427px; min-height:290px; margin:60px auto;}
+.forg_box h1 
+{
+font-family: 'Abel', sans-serif;
+font-weight:600;
+font-size:22px;
+margin-top:0;
+color:#1c1c1c; 
+text-transform:uppercase;
+text-align:center;
+}
+.forgbox {width:427px; height:190px; float:left; background:#00FFFF;
+}
+
+#forg
+	{
+		margin-left:400px;
+		margin-right:400px;
+		border:2px solid #990000;
+
+	}
